@@ -3,7 +3,7 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAPpeOFWSwaBWLgK4h94N9AAyl12sSkuPA",
+    apiKey: process.env.REACT_APP_API_KEY,
     authDomain: "disneyplus-clone-bbf92.firebaseapp.com",
     projectId: "disneyplus-clone-bbf92",
     storageBucket: "disneyplus-clone-bbf92.appspot.com",
