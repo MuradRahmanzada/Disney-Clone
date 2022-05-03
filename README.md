@@ -13,12 +13,6 @@ __You can visit the website clicking [here!](https://disneyplus-clone-bbf92.web.
 * Filter all this movies depending on the producer or saga (Marvel, Starwars, National Geographic etc.)
 * Get details from an specific movie, like casting, runtime, overview, director, release date etc.
 * Get a recommended list of movies depending on the movie that you´ve chosen.
-## Installation
-* Clone the project
-* Execute *npm install* command
-* Edit the *.env.example* file with your The Movie DB api key
-* Execute *npm start*
-* Done :)
 ## Libraries/Technologies used
 * React JS
 * React Router
